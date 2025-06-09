@@ -1,3 +1,5 @@
+// Test file
+
 CREATE OR REPLACE TABLE <your_database>.<your_schema>.BUG_REPORT_DATA (
   AUTHOR VARCHAR(25),
   BUG_TYPE VARCHAR(25),
