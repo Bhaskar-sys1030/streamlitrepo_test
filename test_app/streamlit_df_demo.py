@@ -1,5 +1,7 @@
 -- new line
 
+-- v2.0
+
 import streamlit as st
 
 # Write directly to the app
